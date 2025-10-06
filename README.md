@@ -20,5 +20,6 @@ Sometimes pinned versions of these tools are copied here as backups of the main 
 | PortQueryUI (2025) | Windows tool to see in a GUI which ports are being used [link](https://www.microsoft.com/en-us/download/details.aspx?id=24009) | y |
 | Sysinternals tools (2025) | [Windows tools](https://learn.microsoft.com/en-us/sysinternals/downloads/) for various powershell commands | n |  
 | Procmon64 and ProcessExplorer (2025) | Windows tools [link1](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon), [link2](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) to view way more info about processes than the Task Manager | y | 
+| Desktop Icon Spacing (2024) | [Wintools](https://www.wintools.info/index.php/desktop-icon-spacing) tool to set the desktop icon spacing as desired | y | 
 
 
